@@ -1,2 +1,8 @@
+function a(x){
+    console.log(x);
+    }
 111
+function b(y){
+console.log(y);
+   }
 222
